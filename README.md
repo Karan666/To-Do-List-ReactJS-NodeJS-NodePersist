@@ -26,7 +26,7 @@ This is a simple To-Do List application built using React.js for the frontend an
 - Install the backend dependencies using the following command in the command prompt of windows, using gitbash or any other terminal for any respective operating system -
 
 ```bash
- cd BackEnd
+cd BackEnd
 ```
 
 ```bash
