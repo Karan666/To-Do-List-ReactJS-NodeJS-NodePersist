@@ -8,7 +8,7 @@ This is a simple To-Do List application built using React.js for the frontend an
 - Add new items to the To-Do list.
 - Delete items from the To-Do list.
 
-## TEACHNOLOGIES USED
+## Technologies used
 
 ### Frontend
 
