@@ -58,7 +58,7 @@ nodemon server.js
 2. Start the frontend application
 
 ```bash
-cd frontend
+cd FrontEnd
 ```
 
 ```bash
